@@ -1,0 +1,6 @@
+type,name
+gutenberg,pg_catalog.csv
+byGenre,goodreads_books_children.json.gz
+byGenre,goodreads_interactions_children.json.gz
+complete,goodreads_book_genres_initial.json.gz
+complete,goodreads_book_authors.json.gz
